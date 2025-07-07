@@ -1,1 +1,1 @@
-# Traffic-Sign-Recognition-with-Symbols
+<INSERT_FULL_README_CONTENT_HERE>
